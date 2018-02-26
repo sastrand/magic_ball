@@ -1,2 +1,2 @@
 def bye(n):
-    print("goodbye, {}.".format(n))
+    print("\ngoodbye, {}.\n".format(n))

@@ -1,4 +1,4 @@
-from bin_8 import cli, hello, bye, brain
+from magic_ball import cli, hello, bye, brain
 
 n = cli.get_name()
 hello.hello(n)
