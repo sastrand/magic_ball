@@ -1,3 +1,3 @@
 def hello(n):
-    print("hello, {}.".format(n))
+    print("\nhello, {}.\n".format(n))
 

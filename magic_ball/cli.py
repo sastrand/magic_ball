@@ -1,4 +1,4 @@
-from bin_8 import DEFAULT_NAME
+from magic_ball import DEFAULT_NAME
 
 def get_name():
     n = input("Please enter your name.\n")
