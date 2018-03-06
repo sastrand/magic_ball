@@ -9,7 +9,7 @@ def get_name():
 
 def get_option():
     m = "What would you like to do?\n"\
-        "\tA: converse with computer\n"\
+        "\tA: converse with magic 2 ball\n"\
         "\tB: quit this program\n"
     while True:
         s = input(m)[0]
