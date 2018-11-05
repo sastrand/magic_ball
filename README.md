@@ -9,3 +9,7 @@ Like a magic eight ball, this command line application offers answers to any que
 The ball has two answer possibilities by default: yes or no. It can be extended to offer arbitrarily many answers.
 
 The same question asked more than once will receive the same answer.
+
+## Running locally
+
+`python3 main.py`
